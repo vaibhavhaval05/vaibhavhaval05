@@ -1,91 +1,149 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=DEVOPS%20%7C%20AUTOMATION&fontSize=30&fontColor=58A6FF&fontAlignY=45" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;Linux+%7C+Git+%7C+GitHub;Learning+Today.+Building+Tomorrow." alt="Introduction" /><br/><img src="https://img.shields.io/badge/FOCUS-DEVOPS-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
-<img src="https://img.shields.io/badge/STATUS-CURRENTLY_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" /></div>---
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0D1117,50:102A43,100:0077B6&text=VAIBHAV%20HAVAL&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20DEVOPS%20%7C%20CLOUD&descSize=14&descAlignY=61&animation=fadeIn" /><br/><a href="https://github.com/vaibhavhaval05">
+<img src="https://img.shields.io/badge/GitHub-vaibhavhaval05-161B22?style=flat-square&logo=github&logoColor=58A6FF" />
+</a>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20DEVOPS-161B22?style=flat-square&logo=linux&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/MINDSET-LEARN%20%7C%20BUILD%20%7C%20AUTOMATE-161B22?style=flat-square&logo=githubactions&logoColor=58A6FF" /></div>---
 
-About Me
+"$ whoami"
 
-I am an aspiring DevOps Engineer passionate about Linux, automation, and modern software development practices. I am building my technical foundation through hands-on learning and continuous improvement.
+Aspiring DevOps Engineer with an interest in software development, Linux systems, automation, and cloud infrastructure.
 
-- Currently learning Linux fundamentals and command-line operations.
-- Practicing Git for version control and source code management.
-- Using GitHub to manage repositories and track project progress.
-- Exploring Bash scripting and task automation.
-- Interested in CI/CD, cloud computing, and containerization.
-- Focused on developing practical skills through hands-on projects.
+Building a strong foundation in C, C++, Python, Linux, Git, and GitHub, while exploring how DevOps tools help automate development, testing, deployment, and infrastructure management.
 
-Technical Skills
+My goal is to combine programming knowledge with automation skills to build reliable, maintainable, and scalable systems.
 
-Operating Systems and Scripting
+$ whoami
+vaibhavhaval05
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-</p>Version Control and Collaboration
+$ cat current_focus.txt
+Programming | Linux | Git | GitHub
+DevOps fundamentals | Automation
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>Development Tools
-
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Terminal-333333?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Terminal" />
-</p>Currently Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-</p>Projects
-
-1. Linux Practice Lab
-
-Practicing Linux commands, file and directory management, permissions, and basic system operations.
-
-2. Git and GitHub Practice
-
-Learning repository management, commits, branching, merging, and remote repository workflows.
-
-3. Bash Automation
-
-Exploring shell scripting to automate repetitive tasks and simplify command-line operations.
-
-4. DevOps Learning Lab
-
-Building practical exercises to understand DevOps fundamentals, automation, and development workflows.
-
-Current Learning Roadmap
-
-- [ ] Strengthen Linux commands and administration fundamentals.
-- [ ] Practice Git branching, merging, and conflict resolution.
-- [ ] Understand GitHub repositories and collaboration workflows.
-- [ ] Learn Bash scripting and task automation.
-- [ ] Study computer networking fundamentals.
-- [ ] Learn Docker and containerization.
-- [ ] Build CI/CD pipelines using GitHub Actions.
-- [ ] Explore AWS cloud fundamentals.
-- [ ] Learn Kubernetes and Terraform fundamentals.
-- [ ] Build and document practical DevOps projects.
-
-Professional Interests
-
-- DevOps engineering
-- Linux administration
-- Automation and shell scripting
-- Version control and collaboration
-- Continuous Integration and Continuous Deployment
-- Cloud infrastructure
-- Containerization and orchestration
-
-Development Philosophy
-
+$ echo $ENGINEERING_MINDSET
 Learn. Build. Automate. Improve.
 
-I believe in continuous learning, hands-on practice, and building a strong technical foundation one step at a time. My goal is to grow into a DevOps professional who can help build reliable, automated, and scalable systems.
+---
 
-Connect With Me
+Technical Arsenal
 
-<div align="center"><a href="https://github.com/vaibhavhaval05">
-  <img src="https://img.shields.io/badge/GitHub-vaibhavhaval05-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-</a><br/><br/>
+01. Programming Languages
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=65&section=footer" width="100%" /></div>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
+</p>C · C++ · Python
+
+02. Operating Systems and Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell&theme=dark" />
+</p>Linux · Bash · PowerShell
+
+03. Version Control and Collaboration
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+</p>Git · GitHub · Branching · Merging · Repository Management
+
+04. Containers and Orchestration
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+</p>Docker · Kubernetes · Containerization · Container Orchestration
+
+05. CI/CD and Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab&theme=dark" />
+</p>GitHub Actions · Jenkins · GitLab CI/CD · Automated Build and Deployment
+
+06. Cloud Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" />
+</p>AWS · Microsoft Azure · Google Cloud Platform
+
+07. Infrastructure as Code and Configuration Management
+
+<p>
+<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
+</p>Terraform · Ansible · Infrastructure as Code · Configuration Management
+
+08. Monitoring and Observability
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+</p>Prometheus · Grafana · Metrics · Monitoring · Observability
+
+09. Web Servers, Networking and Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nginx,mysql,postgres&theme=dark" />
+</p>Nginx · MySQL · PostgreSQL · Networking Fundamentals
+
+10. Development Environment
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,vim&theme=dark" />
+</p>Visual Studio Code · Vim · Terminal-Based Development
+
+---
+
+Engineering Roadmap
+
+Stage| Learning Focus
+01| C, C++, Python fundamentals
+02| Linux commands, permissions, processes and shell scripting
+03| Git, GitHub and collaborative workflows
+04| Networking, DNS, HTTP/HTTPS and SSH
+05| Docker images, containers and volumes
+06| CI/CD pipelines using GitHub Actions or Jenkins
+07| Kubernetes, deployments, services and scaling
+08| AWS cloud services and infrastructure fundamentals
+09| Terraform and Ansible
+10| Prometheus, Grafana and system observability
+
+---
+
+Build Log
+
+Programming Lab
+
+Practice programs and problem-solving exercises using C, C++, and Python.
+
+Linux and Git Lab
+
+Command-line exercises, shell basics, version control, branching, merging, and repository management.
+
+Containerization Lab
+
+Hands-on experiments with Docker images, containers, and application environments.
+
+CI/CD Lab
+
+Learning to automate builds, tests, and deployment workflows with GitHub Actions.
+
+Cloud and Kubernetes Lab
+
+Future projects exploring cloud infrastructure, container orchestration, and deployment automation.
+
+Project links will be added as practical projects are completed.
+
+---
+
+GitHub Activity
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavhaval05&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavhaval05&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" /><br/><img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavhaval05&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" /></div>---
+
+Engineering Principles
+
+01  Understand the system before automating it.
+02  Use version control to track every meaningful change.
+03  Build repeatable workflows and reliable deployments.
+04  Learn through practical experiments and troubleshooting.
+05  Document progress and continuously improve.
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF" width="100%" />BUILD WITH PURPOSE. AUTOMATE WITH INTENT.
+
+<a href="https://github.com/vaibhavhaval05">Explore my repositories</a>
+
+</div>
