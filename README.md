@@ -2,11 +2,11 @@
 
 Aspiring DevOps Engineer
 
-Linux | Git & GitHub | Programming | Cloud & Automation
+Linux · Git & GitHub · Programming · Cloud & Automation
 
-""GitHub" (https://img.shields.io/badge/GitHub-vaibhavhaval05-181717?style=flat-square&logo=github)" (https://github.com/vaibhavhaval05)
-"Focus" (https://img.shields.io/badge/Focus-DevOps-0077B6?style=flat-square)
-"Status" (https://img.shields.io/badge/Status-Learning-2E8B57?style=flat-square)
+""GitHub" (https://img.shields.io/badge/GitHub-vaibhavhaval05-0969DA?style=flat-square&logo=github&logoColor=white)" (https://github.com/vaibhavhaval05)
+"Focus" (https://img.shields.io/badge/Focus-DevOps-0969DA?style=flat-square)
+"Status" (https://img.shields.io/badge/Status-Learning-1A7F37?style=flat-square)
 
 </div>---
 
@@ -42,7 +42,7 @@ DevOps, Containers and Cloud
 "Kubernetes" (https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 "Jenkins" (https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 "AWS" (https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-"CI/CD" (https://img.shields.io/badge/CI%2FCD-0077B6?style=for-the-badge&logo=githubactions&logoColor=white)
+"CI/CD" (https://img.shields.io/badge/CI%2FCD-0969DA?style=for-the-badge&logo=githubactions&logoColor=white)
 
 Learning Status
 
