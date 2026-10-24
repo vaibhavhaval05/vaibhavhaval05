@@ -1,123 +1,24 @@
 <div align="center">
 
-# VAIBHAV HAVAL
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:0B3D91,100:00D4FF&height=230&section=header&text=VAIBHAV%20HAVAL&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DEVOPS%20ENGINEERING%20%7C%20AUTOMATION%20%7C%20CLOUD&descSize=15&descAlignY=58&animation=fadeIn" />
 
-### Aspiring DevOps Engineer
+<br/>
 
-**Linux | Git & GitHub | C | C++ | Python | Cloud & Automation**
-
-[![GitHub](https://img.shields.io/badge/GitHub-vaibhavhaval05-0969DA?style=flat-square&logo=github&logoColor=white)](https://github.com/vaibhavhaval05)
-![Focus](https://img.shields.io/badge/Focus-DevOps-0969DA?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Learning-1A7F37?style=flat-square)
+<a href="https://github.com/vaibhavhaval05">
+<img src="https://img.shields.io/badge/GitHub-vaibhavhaval05-0D1117?style=for-the-badge&logo=github&logoColor=00D4FF" />
+</a>
+<img src="https://img.shields.io/badge/FOCUS-SYSTEMS%20%26%20AUTOMATION-0D1117?style=for-the-badge&logo=linux&logoColor=00D4FF" />
+<img src="https://img.shields.io/badge/MINDSET-BUILD%20%7C%20TEST%20%7C%20IMPROVE-0D1117?style=for-the-badge&logo=git&logoColor=00D4FF" />
 
 </div>
 
 ---
 
-# About Me
+## 01 // SYSTEM IDENTITY
 
-I am an aspiring DevOps Engineer passionate about Linux, automation, software development, and cloud technologies.
-
-Currently, I am strengthening my technical foundation through hands-on practice and learning how software is developed, managed, deployed, and maintained.
-
-- Learning Linux fundamentals and command-line operations.
-- Practicing Git and GitHub workflows.
-- Developing programming skills in C, C++, and Python.
-- Exploring DevOps tools, automation, and cloud infrastructure.
-- Working toward building practical projects and deployment workflows.
-
-# Technical Skills
-
-## Programming Languages
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-## Operating Systems and Version Control
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## DevOps, Containers and Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0969DA?style=for-the-badge&logo=githubactions&logoColor=white)
-
-# Learning Status
-
-| Technology | Status |
-|---|---|
-| C | In Progress |
-| C++ | In Progress |
-| Python | In Progress |
-| Linux | In Progress |
-| Git | In Progress |
-| GitHub | In Progress |
-| Docker | Planned |
-| Kubernetes | Planned |
-| Jenkins | Planned |
-| AWS | Planned |
-| CI/CD Pipelines | Planned |
-
-# DevOps Roadmap
-
-| Stage | Learning Goal | Status |
-|---|---|---|
-| 01 | Linux fundamentals | In Progress |
-| 02 | Git and GitHub workflows | In Progress |
-| 03 | C, C++, and Python programming | In Progress |
-| 04 | Bash scripting and automation | Planned |
-| 05 | Computer networking fundamentals | Planned |
-| 06 | Docker and containerization | Planned |
-| 07 | Jenkins and CI/CD pipelines | Planned |
-| 08 | AWS and cloud deployment | Planned |
-| 09 | Kubernetes and container orchestration | Planned |
-| 10 | Terraform and Infrastructure as Code | Planned |
-
-# Practical Learning Projects
-
-## Linux Practice Lab
-
-Practicing Linux commands, file management, permissions, and basic system operations.
-
-**Status:** In Progress
-
-## Git and GitHub Workflow Lab
-
-Practicing commits, branching, merging, and remote repository management.
-
-**Status:** In Progress
-
-## Programming Practice
-
-Improving problem-solving skills through C, C++, and Python exercises.
-
-**Status:** In Progress
-
-## DevOps Deployment Lab
-
-Planning hands-on exercises involving Docker, Jenkins, CI/CD pipelines, AWS, and Kubernetes.
-
-**Status:** Planned
-
-# Engineering Principles
-
-- Understand before automating.
-- Build repeatable and maintainable workflows.
-- Learn through practical experimentation.
-- Document, troubleshoot, and improve continuously.
-
----
-
-<div align="center">
-
-**BUILD WITH PURPOSE. AUTOMATE WITH INTENT.**
-
-[GitHub Profile](https://github.com/vaibhavhaval05)
-
-</div>
+```text
+USER       : vaibhavhaval05
+ROLE       : DevOps Engineering
+INTERESTS  : Linux | Automation | Cloud Infrastructure
+LANGUAGES  : C | C++ | Python
+WORKFLOW   : Learn -> Build -> Test -> Automate -> Improve
