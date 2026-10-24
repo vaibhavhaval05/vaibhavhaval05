@@ -10,7 +10,7 @@
 
 ```text
 Name       : Vaibhav Haval
-Role       : Aspiring DevOps Engineer
+Role       : DevOps Engineer
 Interests  : Linux, Programming, Automation, Cloud
 Mindset    : Learn → Build → Test → Improve
 Mission    : Build reliable and automated systems
