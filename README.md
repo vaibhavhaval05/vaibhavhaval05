@@ -1,90 +1,86 @@
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=170&section=header&text=DEVOPS%20%7C%20AUTOMATION&fontSize=30&fontColor=58A6FF&fontAlignY=45" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+DevOps+Engineer;Linux+%7C+Git+%7C+GitHub;Learning+Today.+Building+Tomorrow." alt="Introduction" /><br/><img src="https://img.shields.io/badge/FOCUS-DEVOPS-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
+<img src="https://img.shields.io/badge/STATUS-CURRENTLY%20LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" /></div>---
 
-<div align="center">
+About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=180&section=header&text=DEVOPS%20ENGINEER%20IN%20PROGRESS&fontSize=27&fontColor=58A6FF&fontAlignY=45" width="100%" />
+I am an aspiring DevOps Engineer passionate about Linux, automation, and modern software development practices. I am building my technical foundation through hands-on learning and practical exercises.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+DevOps+%26+Cloud+Technologies;Automating+%7C+Building+%7C+Deploying;C+%7C+C%2B%2B+%7C+Python+%7C+Web+Development" />
+- Currently learning Linux fundamentals and command-line operations.
+- Practicing Git for version control and source code management.
+- Using GitHub to manage repositories and track project progress.
+- Exploring Bash scripting and task automation.
+- Interested in CI/CD, cloud computing, and containerization.
+- Focused on developing practical skills and building real-world projects.
 
-<br/>
+Technical Skills
 
-<img src="https://img.shields.io/badge/FOCUS-DEVOPS-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=3FB950" />
+Operating Systems
 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Command%20Line-0D1117?style=for-the-badge&logo=windowsterminal&logoColor=58A6FF" />
+</p>Version Control and Collaboration
 
----
+<p>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</p>Currently Exploring
 
-## About Me
+<p>
+  <img src="https://img.shields.io/badge/Bash%20Scripting-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+</p>Projects
 
-I'm an aspiring software and DevOps professional passionate about programming, automation, and modern development practices.
+Linux Practice Lab
 
-- ⚙️ Currently learning **DevOps and automation**
-- 🐧 Exploring Linux and command-line tools
-- 🔧 Learning Git and GitHub workflows
-- 🐳 Interested in Docker and containerization
-- ☁️ Exploring cloud computing and CI/CD
-- 💻 Programming with C, C++, and Python
-- 🌐 Learning HTML, CSS, and JavaScript
+Practicing Linux commands, file and directory management, permissions, and basic system operations.
 
-## Technical Skills
+Git and GitHub Practice
 
-### DevOps & Infrastructure
+Learning repository management, commits, branching, merging, and remote repository workflows.
 
-<div align="left">
+Bash Automation
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,jenkins,aws&theme=dark" />
+Exploring shell scripting to automate repetitive tasks and simplify command-line operations.
 
-</div>
+DevOps Learning Lab
 
-### Programming & Web Development
+Building a collection of practical exercises to understand DevOps fundamentals and automation workflows.
 
-<div align="left">
+Current Learning Roadmap
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js&theme=dark" />
+- [ ] Strengthen Linux commands and system administration fundamentals.
+- [ ] Practice Git branching, merging, and conflict resolution.
+- [ ] Understand GitHub repositories and collaboration workflows.
+- [ ] Learn Bash scripting and task automation.
+- [ ] Study networking fundamentals.
+- [ ] Learn Docker and containerization.
+- [ ] Build CI/CD pipelines using GitHub Actions.
+- [ ] Explore AWS cloud fundamentals.
+- [ ] Learn Kubernetes and Terraform fundamentals.
+- [ ] Build and document practical DevOps projects.
 
-</div>
+Professional Interests
 
-> Tools shown represent my learning interests. I'll update this section as I gain practical experience.
+- DevOps engineering
+- Linux administration
+- Automation and shell scripting
+- Version control and collaboration
+- CI/CD pipelines
+- Cloud infrastructure
+- Containerization and orchestration
 
-## Projects
+Development Philosophy
 
-- **DevOps Learning Lab** — Practice Linux commands, Git workflows, and automation.
-- **CI/CD Pipeline** — Learn how to automate building and testing applications.
-- **Docker Practice** — Learn to package applications into containers.
-- **Programming Projects** — Build beginner projects using C, C++, and Python.
-- **Personal Portfolio** — Create a website using HTML, CSS, and JavaScript.
+Learn. Build. Automate. Improve.
 
-## Current Learning Roadmap
+I believe in continuous learning, hands-on practice, and building a strong technical foundation one step at a time. My goal is to grow into a DevOps professional who can help build reliable, automated, and scalable systems.
 
-- [ ] Linux fundamentals and shell scripting
-- [ ] Git and GitHub
-- [ ] Networking fundamentals
-- [ ] Docker and containerization
-- [ ] CI/CD pipelines with Jenkins or GitHub Actions
-- [ ] Cloud fundamentals with AWS
-- [ ] Kubernetes fundamentals
-- [ ] Infrastructure as Code with Terraform
+Connect With Me
 
-## My Approach
+<div align="center"><a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+</a><br/><br/>
 
-```text
-Learn → Practice → Build → Automate → Improve
-```
-
-I believe in consistent learning, hands-on practice, and building projects that solve real problems.
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BUILD-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
-<img src="https://img.shields.io/badge/AUTOMATE-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
-<img src="https://img.shields.io/badge/DEPLOY-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" />
-
-<br/><br/>
-
-**Learning every day. Building for the future.**
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=65&section=footer" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=65&section=footer" width="100%" /></div>
